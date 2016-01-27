@@ -24,7 +24,7 @@
     var defaultViewBoxSize = settings.size;
     var defaultInnerRadius = settings.size / 3;
     var defaultOuterRadius = settings.size / 2;
-    var defaultRadiusMin = settings.size / 10;
+    var defaultRadiusMin = settings.size / 18;
     self.options = {};
     $.extend(self.options, {
       plugins: [],
